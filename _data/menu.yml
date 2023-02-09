@@ -1,0 +1,11 @@
+title: about
+entries:
+  - title: This site is a collection of my history essays
+  - title: email
+    url: mailto:hayden@haydenrinn.com
+  - title: github
+    url: https://github.com/hrinn
+  - title: pgp key
+
+title: essays
+post_list: true
