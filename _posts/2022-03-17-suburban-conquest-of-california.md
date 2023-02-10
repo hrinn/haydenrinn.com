@@ -2,6 +2,7 @@
 layout: post
 title:  "THE SUBURBAN CONQUEST OF CALIFORNIA"
 date:   2022-03-17
+permalink: /suburban-conquest-california
 ---
 
 *NOTE: This essay is not a standard historical essay. It is a project proposal for a public memory project, as determined by the final assignment of my History of California class. However, it still contains a good deal of interesting historical context and analysis.*
