@@ -1,13 +1,12 @@
 entries:
   - title: about
     entries:
-      - title: This site hosts a collection of my history essays. I wrote them as part of completing my History minory at Cal Poly, SLO.
+      - title: This site hosts a collection of my history essays. I wrote them as part of completing my History minor at Cal Poly, SLO. 🐙🍄🌻
       - title: email
         url: mailto:hayden@haydenrinn.com
       - title: github
         url: https://github.com/hrinn
       - title: pgp key
-      - title: 🐙🍄🌻
 
   - title: essays
     post_list: true

@@ -4,8 +4,7 @@ title:  "THE SUBURBAN CONQUEST OF CALIFORNIA"
 date:   2022-03-17
 ---
 
-### *NOTE*
-*This essay is not a standard historical essay. It is a project proposal for a public memory project, as determined by the final assignment of my History of California class. However, it still contains a good deal of interesting historical context and analysis.*
+*NOTE: This essay is not a standard historical essay. It is a project proposal for a public memory project, as determined by the final assignment of my History of California class. However, it still contains a good deal of interesting historical context and analysis.*
 
 ## PROJECT SUMMARY
 In 1950, the California Highways and Public Works department published the centennial edition of its official journal. On this 100th anniversary of the state’s admission to the union, the CHPW intended to celebrate the great progress achieved through the construction of highways, and to frame this progress as a historical trend that had been long in the making—-well before the era of automobiles. The purpose of this journal is best summarized by its foreword, a short note located adjacent to a portrait of Junipero Serra, as well as pictures of nine of the senior directors of the California Highway Commission: 
