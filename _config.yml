@@ -21,7 +21,8 @@
 title: haydenrinn.com
 email: hayden@haydenrinn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of my history essays
+  This site hosts a collection of my history essays.
+  I wrote them as part of completing my History minor at Cal Poly, SLO.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: haydenrinn.com
 url: "https://haydenrinn.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +35,7 @@ theme_config:
   appearance: "light"
   back_home_text: "<-"
   date_format: "%Y-%m-%d"
-  show_description: false
+  show_description: true
 
 plugins:
   - jekyll-feed
