@@ -29,10 +29,10 @@ Using the internet to communicate, spread ideas, and organize has harmed activis
 [^7]: Mohammed Turki Al-Sudairi, “Marx’s Arabian Apostles: The Rise and Fall of the Saudi Communist Movement,” The Middle East Journal 73, no. 3 (2019): 443.
 [^8]: Stephanie Kirchgaessner, "Saudis Behind NSO Spyware Attack on Jamal Khashoggi’s Family, Leak Suggests," The Guardian, 2021.
 [^9]: b33lz3bub, "Lord of The Flies: An Open-Source Investigation into Saud Al-Qahtani," Bellingcat. 2019.
-[^10]: Stéphane Lacroix and George Holoch, Awakening Islam: The Politics of Religious Dissent in Contemporary Saudi Arabia, (Cambridge, Mass: Harvard University Press, 2011), 42-25.
-[^11]: Lacroix and Holoch, Awakening Islam, 49.
-[^12]: Lacroix and Holoch, Awakening Islam, 50.
-[^13]: Pascal Ménoret, Graveyard of Clerics: Everyday Activism in Saudi Arabia, (Stanford, California: Stanford University Press, 2020), 4.
-[^14]: Ménoret, Graveyard of Clerics, 5.
-[^15]: Ménoret, Graveyard of Clerics, 192.
-[^16]: Ménoret, Graveyard of Clerics, 196. 
+[^10]: Stéphane Lacroix and George Holoch, *Awakening Islam: The Politics of Religious Dissent in Contemporary Saudi Arabia*, (Cambridge, Mass: Harvard University Press, 2011), 42-25.
+[^11]: Lacroix and Holoch, *Awakening Islam*, 49.
+[^12]: Lacroix and Holoch, *Awakening Islam*, 50.
+[^13]: Pascal Ménoret, *Graveyard of Clerics: Everyday Activism in Saudi Arabia*, (Stanford, California: Stanford University Press, 2020), 4.
+[^14]: Ménoret, *Graveyard of Clerics*, 5.
+[^15]: Ménoret, *Graveyard of Clerics*, 192.
+[^16]: Ménoret, *Graveyard of Clerics*, 196. 
