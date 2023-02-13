@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: haydenrinn.com
 url: "https://haydenrinn.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "favicon.ico"
+goat_counter: "hrinn"
 
 # Build settings
 remote_theme: riggraz/no-style-please
