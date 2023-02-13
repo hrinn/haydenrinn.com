@@ -11,3 +11,7 @@ entries:
 
   - title: essays
     post_list: true
+      
+  - title: rss
+    url: feed.xml
+      
