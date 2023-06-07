@@ -6,8 +6,7 @@ entries:
         url: mailto:hayden@haydenrinn.com
       - title: github
         url: https://github.com/hrinn
-      - title: pgp key
-        url: data/hayden.txt
+      - title: pgp key id: 3949E9A8861A2484
 
   - title: essays
     post_list: true
