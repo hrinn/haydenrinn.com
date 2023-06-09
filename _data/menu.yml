@@ -10,6 +10,11 @@ entries:
 
   - title: essays
     post_list: true
+    category: essay
+
+  - title: blog posts
+    post_list: true
+    category: blog
       
   - title: rss
     url: feed.xml
