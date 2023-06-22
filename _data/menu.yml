@@ -9,12 +9,14 @@ entries:
       - title: "pgp key id: 3949E9A8861A2484"
 
   - title: essays
-    post_list: true
-    category: essay
+    post_list:
+      category: essay
+      limit: 5
 
   - title: blog posts
-    post_list: true
-    category: blog
+    post_list:
+      category: blog
+      limit: 5
       
   - title: rss
     url: feed.xml
