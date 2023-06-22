@@ -3,7 +3,7 @@ layout: post
 title:  "THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS"
 date:   2021-03-16
 permalink: /forgotten-people-marshall-islands
-which_category: essay
+category: essay
 ---
 
 <p>There had been a war</p>

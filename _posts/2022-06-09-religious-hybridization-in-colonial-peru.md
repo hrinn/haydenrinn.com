@@ -3,7 +3,7 @@ layout: post
 title:  "RELIGIOUS HYBRIDIZATION IN COLONIAL PERU"
 date:   2022-06-09
 permalink: /religious-hybridization-peru
-which_category: essay
+category: essay
 ---
 
 A central goal of the Spanish invasion of Peru was the complete conversion of the Indigenous people to Catholicism. To this end, the Spanish largely failed. Scholars such as José Carlos Mariátegui, Luis E. Valcárcel, and George Kubler have argued that the Spanish only succeeded in establishing a veneer of Catholicism, beneath which strong Indigenous practices and beliefs remained.[^1] Given that Indigenous religious survival has been established by other historiography, this paper aims to investigate the methods by which Catholicism and Indigenous religion were able to coexist and hybridize in colonial Peru. These methods include Spanish concessions meant to make Catholicism more compatible with existing practices, Indigenous assimilation leading to hybrid forms of worship, and outright resistance to conversion.

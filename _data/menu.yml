@@ -11,12 +11,10 @@ entries:
   - title: essays
     post_list:
       category: essay
-      limit: 5
 
   - title: blog posts
     post_list:
-      category: blog
-      limit: 5
+      category: blogpost
       
   - title: rss
     url: feed.xml
