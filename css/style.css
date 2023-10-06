@@ -1,6 +1,18 @@
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: normal;
+    src: url('CascadiaMono.ttf');
+}
+
+@font-face {
+    font-family: 'Cascadia Mono';
+    font-style: italic;
+    src: url('CascadiaMonoItalic.ttf');
+}
+
 body {
     background-color: #aeb8fe;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Cascadia Mono';
 }
 
 header {
