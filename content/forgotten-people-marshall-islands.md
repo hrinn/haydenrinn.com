@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS"
+title:  THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS
 date:   2021-03-16
-permalink: /forgotten-people-marshall-islands
-category: essay
 ---
+
+# THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS
 
 <p>There had been a war</p>
 <p>raging inside Bianca’s six year old bones</p>

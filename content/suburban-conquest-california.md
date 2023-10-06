@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "THE SUBURBAN CONQUEST OF CALIFORNIA"
+title:  THE SUBURBAN CONQUEST OF CALIFORNIA
 date:   2022-03-17
-permalink: /suburban-conquest-california
-category: essay
 ---
+
+# THE SUBURBAN CONQUEST OF CALIFORNIA
 
 *NOTE: This essay is not a standard historical essay. It is a project proposal for a public memory project, as determined by the final assignment of my History of California class. However, it still contains a good deal of interesting historical context and analysis.*
 
@@ -30,12 +30,12 @@ Today, the situation has not improved much. Seventy-eight percent of residential
 ## RESOURCE PLANNING
 To mirror the length of the CHPW’s journal, the counter report would require historical research beyond the scope of this proposal. The arguments of this proposal, which are explored briefly below, contain historical analysis through the lens of class and race, and are supported by historiography. But this basis is nowhere near enough to rival the original 172-page journal.  Additionally, the original journal contains art and photography related to its contents. The proposed journal would contain the artwork of Californians who have resisted suburban and highway development, as explored by the scholar Eric Avila.[^6] This includes the work of Carlos Almaraz, a notable artist in the Chicano Movement. Many of his works are focused on highways, which also dominate the neighborhood where he grew up—East L.A.  
 
-![A painting of two cars colliding in a fiery explosion on an overpass. Set in front of a beautiful sunset.](/img/almaraz-1.jpg)
+![A painting of two cars colliding in a fiery explosion on an overpass. Set in front of a beautiful sunset.](../data/almaraz-1.jpg)
 <p align="center">Almaraz, Crash in Phthalo Green, 1984.</p>
 
 In “Crash in Phthalo Green,” Almaraz depicts the violence that highways bring to the communities they pass through, namely horrific car crashes. This painting also emphasizes how ingrained highways are in communities like East L.A. They are a permanent part of the landscape—-in this piece the highway nearly blends in with the sky. Another artist whose work depicts the consequences of highway development is Judith Baca. Her half mile long mural entitled “The Great Wall of Los Angeles,” is painted on a concrete wall of the Los Angeles river. The mural depicts a chronological history of Los Angeles from the perspective of oppressed peoples.
 
-![A mural depicting families being torn apart by highways, cops, and the arrival of Dodger stadium in Chavez Ravine.](/img/division-of-the-barrios.jpg)
+![A mural depicting families being torn apart by highways, cops, and the arrival of Dodger stadium in Chavez Ravine.](../data/division-of-the-barrios.jpg)
 <p align="center">Baca, The Great Wall of Los Angeles, 1978.</p>
 
 In this section of the mural, Baca shows how suburban development has invaded the communities of East L.A. A writhing tentacle of highway has crashed through homes and pulled a family apart. Dodger Stadium looms on right side of the mural, like an alien spaceship. Many of the residents of the Chavez Ravine neighborhood were uprooted to build the stadium. The imagery of this section depicts suburban development as an invading alien force, removing the people who many Americans call aliens. Works such as these would enhance the proposal, and funding would be required to license existing art or commission new work. Finally, to distribute many copies of this report, large scale printing would be required.
