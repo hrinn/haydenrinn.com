@@ -1,8 +1,6 @@
----
-layout: post
-title:  THE SELF DESTRUCTION OF DIGITAL ACTIVISM IN SAUDI ARABIA
-date:   2021-12-09
----
+% The Self Destruction of Digital Activism in Saudi Arabia
+% Hayden J. Rinn
+% 2021-12-09
 
 # THE SELF DESTRUCTION OF DIGITAL ACTIVISM IN SAUDI ARABIA
 

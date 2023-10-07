@@ -1,8 +1,6 @@
----
-layout: post
-title:  THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS
-date:   2021-03-16
----
+% The Forgotten People of the Marshall Islands
+% Hayden J. Rinn
+% 2021-03-16
 
 # THE FORGOTTEN PEOPLE OF THE MARSHALL ISLANDS
 
