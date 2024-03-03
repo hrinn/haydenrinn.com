@@ -3,7 +3,7 @@ html_files := $(addprefix content/, $(notdir $(md_files:md=html)))
 
 all: $(html_files)
 
-content/%.html: posts/%.md
+content/%.html: posts/%.md template.html
 	pandoc --standalone --template template.html -f markdown $< -o $@
 
 clean:
