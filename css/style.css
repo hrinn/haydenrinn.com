@@ -26,6 +26,9 @@ body {
     height: 100%;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
@@ -33,6 +36,12 @@ header {
     margin: 0;
     width: 100%;
     padding: 0.5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer {
@@ -40,8 +49,7 @@ footer {
     text-align: center;
     width: 100%;
     padding: 1em;
-    position: absolute;
-    bottom: 0;
+    box-sizing: border-box;
 }
 
 .content {
@@ -52,6 +60,10 @@ footer {
     margin-right: auto;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.wrapper {
+    flex: 1;
 }
 
 .md-container {
@@ -65,8 +77,23 @@ a {
     color: #27187e;
 }
 
-#homenav {
+#title {
+    text-decoration: none;
     color: #ff8600;
+}
+
+#homenav {
+    color: #f1f2f6;
+    text-decoration: none;
+}
+
+#homenav:hover, #homenav-active:hover, #title:hover {
+    color: #fec131;
+}
+
+#homenav-active {
+    color: #ff8600;
+    text-decoration: underline;
 }
 
 nav {
