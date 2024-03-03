@@ -7,4 +7,4 @@ docs/content/%.html: docs/posts/%.md template.html
 	pandoc --standalone --template template.html -f markdown $< -o $@
 
 clean:
-	rm docs/content/*.html
+	rm $(html_files)

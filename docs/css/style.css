@@ -82,18 +82,9 @@ a {
     color: #ff8600;
 }
 
-#homenav {
-    color: #f1f2f6;
-    text-decoration: none;
-}
 
-#homenav:hover, #homenav-active:hover, #title:hover {
+#title:hover {
     color: #fec131;
-}
-
-#homenav-active {
-    color: #ff8600;
-    text-decoration: underline;
 }
 
 nav {
