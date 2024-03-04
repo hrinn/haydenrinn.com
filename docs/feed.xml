@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>haydenrinn.com</title>
+    <link>https://haydenrinn.com</link>
+    <description>A collection of my history essays and otherposts</description>
+    <language>en-us</language>
+    <copyright>haydenrinn.com © 2021-2024 by Hayden Rinn is licensed under CC BY-NC-ND 4.0</copyright>
+    <item>
+      <title>Religious Hydridization in Colonial Peru</title>
+      <link>https://haydenrinn.com/content/religious-hybridization-colonial-peru.html</link>
+      <description>A central goal of the Spanish invasion of Peru was the complete conversion of the Indigenous people to Catholicism...</description>
+      <pubDate>Thurs, 09 Jun 2022 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>The Suburban Conquest of California</title>
+        <link>https://haydenrinn.com/content/suburban-conquest-california.html</link>
+        <description>In 1950, the California Highways and Public Works department published the centennial edition of its official journal. On this 100th anniversary of the state’s admission to the union, the CHPW intended to celebrate the great progress achieved through the construction of highways, and to frame this progress as a historical trend that had been long in the making — well before the era of automobiles...</description>
+        <pubDate>Wed, 16 Mar 2022 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>The Self Destruction of Digital Activism in Saudi Arabia</title>
+        <link>https://haydenrinn.com/content/digital-activism-saudi-arabia.html</link>
+        <description>Activism is difficult, but present, in one of the most repressed countries in the world. The Saudi Arabian regime tightly controls expression and harshly punishes dissent. This is one of the reasons the regime survived the Arab Spring of 2011...</description>
+        <pubDate>Thurs, 09 Dec 2021 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Rongelap Atoll: The Forgotten Victims of U.S. Nuclear Testing</title>
+        <link>https://haydenrinn.com/content/rongelap-nuclear-testing.html</link>
+        <description>Bianca is one of the many Marshallese people who have succumbed to cancer and other illnesses caused by radiation. This radiation is part of the painful and destructive legacy of U.S. nuclear testing in the Marshall Islands. The most destructive test, Operation Castle Bravo, was conducted on March 1, 1954 when the U.S. military detonated a 15 megaton nuclear bomb. The outcome was a disaster...</description>
+        <pubDate>Tues, 16 Mar 2021 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
