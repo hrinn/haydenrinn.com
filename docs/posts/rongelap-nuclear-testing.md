@@ -88,7 +88,68 @@ Beyond this statement, no presidential acknowledgment or apology was ever issued
 
 While the U.S. continues to avoid its full responsibility, hope lies in the Rongelapese peoples’ long fight for justice. All progress won so far was hard fought for&mdash;through petitions for aid and compensation in the U.S. Congress, in the self-organized evacuation of the atoll of 1985, in legal self-defense against policies like Section 177 of COFA, and through the efforts to convince the U.S. to finally begin a cleanup of their home. This fight is far from over, and must be aided by raising awareness about an issue that few know enough about. Through such efforts, we may begin to fully understand the long-lasting consequences that nuclear weapons have wrought upon the world and help the many victims that have been left in their fallout.
 
-## FOOTNOTES
+## BIBLIOGRAPHY
+Anjain, Jeton. "Senator John Anjain Acceptance Speech." Speech, December 31, 1991. The Right Livelihood Foundation. Accessed February 12, 2021. <https://www.rightlivelihoodaward.org/speech/acceptance-speech-senator-jeton-anjain-the-rongelap-people/>.
+
+Anjain, John. Interview. _Atomic Atolls_. Last modified 1981. Accessed February 4, 2021. <https://bba5620c586b48f2ad7ea60cc6705f89.filesusr.com/ugd/d75784_02b0bf2c1b5e40cd8f98a0ac0c82db05.pdf>.
+
+Broderick, Mick, and Robert Jacobs. "The Global Hibakusha Project: Nuclear Post-colonialism and Its Intergenerational Legacy." Unlikely, no. 5. Accessed March 15, 2021. <http://unlikely.net.au/issue-05/the-global-hibakusha-project>.
+
+_Committee on Energy and Natural Resources, Compact of Free Association Amendments Act of 2003_, H.R. Rep. No. 108-159, 1st Sess. (Oct. 1, 2003). <https://babel.hathitrust.org/cgi/pt?id=pur1.32754077081028&view=1up&seq=1&q1=rongelap>.
+
+_Compact of Free Association: Hearings Before the Committee on Interior and Insular Affairs_, 98th Cong., 2d Sess. (1984). <https://babel.hathitrust.org/cgi/pt?id=uc1.aa0000565705&view=1up&seq=1>.
+
+Conard, Robert A., H. Eugene Macdonald, Leo M. Meyer, and Stanton Cohn. _Medical Survey of Rongelap People Seven Years after Exposure to Fallout_. Upton, NY: Brookhaven National Laboratory, 1962. <https://babel.hathitrust.org/cgi/pt?id=mdp.39015086582015&view=1up&seq=1>.
+
+Cronkite, E. P., V. P. Bond, and C. L. Dunham, eds. _Some Effects of Ionizing Radiation on Human Beings_. N.p.: United States Atomic Energy Commission, 1956. <https://babel.hathitrust.org/cgi/pt?id=mdp.39015095051861&view=1up&seq=6>.
+
+Georgescu, Calin. Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes. September 3, 2012. Accessed March 16, 2021. <https://apjjf.org/data/UNMarshallIslands.pdf>.
+
+Hunter, Gene. "'Fallout Children' Show No Evidence of Defects." _The Honolulu Advertiser_ (Honolulu, HI), April 9, 1967. Newspapers.com.
+
+Jacobs, Robert, and Mick Broderick. "国際連合報告書、マーシャル諸島における核植民地主義の遺物存続を明かす" [United Nations Report Reveals the Ongoing Legacy of Nuclear Colonialism in the Marshall Islands]. The Asia-Pacific Journal 10, no. 47 (November 18, 2012). Accessed March 16, 2021. <https://apjjf.org/2012/10/47/Robert-Jacobs/3853/article.html>.
+
+Johnson, Giff. "Questions Linger over Whether Rongelap Will Ever Be Safe." _Pacific Islands Monthly_, August 1, 1999, 42-43. <https://nla.gov.au/nla.obj-346189873/view?sectionId=nla.obj-347029299&partId=nla.obj-346202001#page/ n40/mode/1up>.
+
+Kathy Jetñil-Kijiner. "Bursts of Bianca." In Iep Jāltok, 39-41. Tucson, AZ: University of Arizona Press, 2017.
+
+———. "Fishbone Hair." In Iep Jāltok, 25-26. Tucson, AZ: University of Arizona Press, 2017.
+
+———. "On the Couch with Būbu Nein." In Iep Jāltok, 42-44. Tucson, AZ: University of Arizona Press, 2017.
+
+———. "New Years, New Monsters, New Poems." _Kathy Jetñil-Kijiner_ (blog). Entry posted January 25, 2018. Accessed March 16, 2021. <https://www.kathyjetnilkijiner.com/new-year-new-monsters-and-new-poems/>.
+
+Kios, Kiosang. Interview. _Atomic Atolls_. Last modified July 2, 1985. Accessed February 4, 2021. <https://bba5620c586b48f2ad7ea60cc6705f89.filesusr.com/ugd/d75784_ca2873ef66af4dfb9f01514f06d3ea70.pdf>.
+
+Miller, Robert C. "'54 Bikini Blast Boon to Victims." _The Honolulu Advertiser_ (Honolulu, HI), August 6, 1962. Newspapers.com.
+
+"Monster 怪物." Video, 4:50. Youtube. Posted by United For Peace Film Festival, September 25, 2017. Accessed February 4, 2021. <https://youtu.be/m8OJulGi1Rg>.
+
+National Research Council. _Radiological Assessments for the Resettlement of Rongelap in the Republic of the Marshall Islands_. 1994. Accessed February 12, 2021. <https://doi.org/10.17226/2352>.
+
+_Nuclear Savage_. Directed by Adam Jonas Horowitz. 2011. Accessed February 27, 2021. <https://calpoly.kanopy.com/video/nuclear-savage>.
+
+"Operation CASTLE Commander's Report." Video. Internet Archive. Posted by Joint 
+Task Force 7, 1954. Accessed February 27, 2021. <https://archive.org/details/
+CastleCommandersReport1954>.
+
+Riesenberg, S. H. "Modern Atomic Exiles: Fallout of Radioactive Material in Bomb Test Forced Evacuation of Marshallese." _The Honolulu Advertiser_, July 15, 1954. Newspapers.com.
+
+———. “Modern Atomic Exiles: Relocated Rongelapese Will Return Some Day; Their Migration Will Be a Legend.” _The Honolulu Advertiser_, Jul. 17, 1954. Newspapers.com.
+
+Rongelap Resettlement Act of 1999, H.R. Rep. No. 106-404, 1st Sess. (Oct. 20, 1999). <https://babel.hathitrust.org/cgi/pt?id=pur1.32754069222689&view=1up&seq=1>.
+
+_Safety of Rongelap Atoll: Hearings Before the Interior and Insular Affairs_, 101st Cong., 1st Sess. (1989). <https://babel.hathitrust.org/cgi/pt?id=pst.000017580571&view=1up&seq=1>.
+
+Takemine, Seiichiro. "'Global Hibakusha' and the Invisible Victims of the U.S. Nuclear Testing in the Marshall Islands." In _Regional Ecological Challenges for Peace in Africa, the Middle East, Latin America and Asia Pacific_, by Ursula Oswald Spring, Hans Gunter Brauch, Serrena Erendira Serrano Oswald, and Juliet Bennett, 125-36. N.p.: Springer, Cham, 2016. <https://link-springer-com.ezproxy.lib.calpoly.edu/chapter/10.1007%2F978-3-319-30560-8_7>.
+
+Tima, Aisen. Interview. _Atomic Atolls_. Last modified July 2, 1985. Accessed February 4, 2021. <https://bba5620c-586b-48f2-ad7e-a60cc6705f89.filesusr.com/ugd/d75784_f322c7e527224f45bf1ddad8c194caf3.pdf>.
+
+U.S. Mission Geneva. "U.S. Statement on the Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Calin Georgescou, on His Mission to the Republic of the Marshall Islands, March 26 to March 29, 2012." News release. September 18, 2012. Accessed March 16, 2021. <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
+
+Willett, Erroll. "Greenpeace Evacuates Marshall Islanders." UPI, May 22, 1985. Accessed February 27, 2021. <https://www.upi.com/Archives/1985/05/22/Greenpeace-evacuates-Marshall-Islanders/8656485582400/>.
+
+
 [^1]: "Operation CASTLE Commanders Report", Video, Internet Archive, Posted by Joint Task Force 7, 1954, 6:00, <https://archive.org/details/CastleCommandersReport1954>.
 [^2]: U.S. Mission Geneva, "U.S. Statement on the Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Calin Georgescou, on His Mission to the Republic of the Marshall Islands, March 26 to March 29, 2012," News release, September 18, 2012, <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
 [^3]: Mick Broderick and Robert Jabobs, "The Global Hibakusha Project: Nuclear Post-colonialism and Its Intergenerational Legacy," Unlikely, no. 5, <http://unlikely.net.au/issue-05/the-global-hibakusha-project>.
