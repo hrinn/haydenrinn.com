@@ -1,6 +1,6 @@
 % THE SELF DESTRUCTION OF DIGITAL ACTIVISM IN SAUDI ARABIA
 % Hayden J. Rinn
-% 2021-12-09
+% December 9, 2021
 
 Activism is difficult, but present, in one of the most repressed countries in the world. The Saudi Arabian regime tightly controls expression and harshly punishes dissent. This is one of the reasons the regime survived the Arab Spring of 2011, which toppled many authoritarian governments in the Middle East but barely manifested in Saudi Arabia. Nevertheless, activism lives on in the country. The different Saudi activist movements have been tied to the communication media of the time. Activists used speech, radio, satellite television, and lately, the internet to communicate, organize, spread ideologies, and mobilize support. Despite increasing the ability for activists to spread ideas, internet adoption has harmed activism in Saudi Arabia because it enabled the state to further repress dissent, and it replaced communities where activism originally thrived.
 

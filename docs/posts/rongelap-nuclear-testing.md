@@ -1,30 +1,40 @@
 % RONGELAP ATOLL: THE FORGOTTEN VICTIMS OF U.S. NUCLEAR TESTING
 % Hayden J. Rinn
-% 2021-03-16
+% March 16, 2021
 
-<p>There had been a war</p>
-<p>raging inside Bianca’s six year old bones</p>
-<p>white cells had staked their flag</p>
-<p>they conquered the territory of her tiny body</p>
-<p>they saw it as their destiny</p>
-<p>they said it was manifested</p>
-<p style="padding-left:300px;">It</p>
-<p style="padding-left:340px;">all</p>
-<p style="padding-left:500px;">fell</p>
-<p style="padding-left:540px;">out</p>
-<p>&nbsp;</p>
-<p>I felt</p>
-<p>bald and blank as Bianca’s skull</p>
-<p>when they closed her casket</p>
-<p>hymns wafting into the night sky</p>
+There had been a war
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+raging inside Bianca’s six year old bones
+
+white cells had staked their flag
+
+they conquered the territory of her tiny body
+
+they saw it as their destiny
+
+they said it was manifested
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;It
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;all
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;fell
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;out
+
+I felt
+
+bald and blank as Bianca’s skull
+
+when they closed her casket
+
+hymns wafting into the night sky
+
+&nbsp;
 
 (Kathy Jetñil-Kijiner, “Fishbone Hair”)
 
-<p>&nbsp;</p>
+&nbsp;
 
 “Fishbone Hair” is a poem by Kathy Jetñil-Kijiner, a Marshallese poet, about her niece Bianca Lanki who died of leukemia when she was eight years old. Bianca is one of the many Marshallese people who have succumbed to cancer and other illnesses caused by radiation. This radiation is part of the painful and destructive legacy of U.S. nuclear testing in the Marshall Islands. The most destructive test, Operation Castle Bravo, was conducted on March 1, 1954. The outcome was a disaster. Following the blast, Rongelap atoll as well as two other nearby atolls were blanketed in radioactive fallout. The U.S. claimed that this was an accident, caused by the unexpectedly high 15-megaton-yield of the bomb which was two and a half times larger than what was calculated, as well as adverse wind conditions. After spending 48 hours in the fallout, where children played in the radioactive ash they thought was snow, the people who lived on Rongelap atoll were evacuated on March 3.[^1] They spent three years living on U.S. military bases and small islands before being returned to Rongelap in 1957 and told it was safe.
 

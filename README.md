@@ -6,10 +6,10 @@ This is the source code for my personal website.
 
 Markdown -> HTML / PDF conversion done with [Pandoc](https://pandoc.org/MANUAL.html)
 
-The following command can generate Markdown files to PDF. Requires `wkhtmltopdf`
+The following command can generate Markdown files to PDF. Requires several Latex packages.
 
-```
-pandoc <input>.md -o <output>.pdf -t html
+```bash
+pandoc --pdf-engine=xelatex -V mainfont="Liberation Serif" -V CJKmainfont="Harano Aji Mincho" <in.md> -o <out.pdf>
 ```
 
 ## License
