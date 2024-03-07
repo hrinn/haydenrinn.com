@@ -89,6 +89,7 @@ Beyond this statement, no presidential acknowledgment or apology was ever issued
 While the U.S. continues to avoid its full responsibility, hope lies in the Rongelapese peoples’ long fight for justice. All progress won so far was hard fought for&mdash;through petitions for aid and compensation in the U.S. Congress, in the self-organized evacuation of the atoll of 1985, in legal self-defense against policies like Section 177 of COFA, and through the efforts to convince the U.S. to finally begin a cleanup of their home. This fight is far from over, and must be aided by raising awareness about an issue that few know enough about. Through such efforts, we may begin to fully understand the long-lasting consequences that nuclear weapons have wrought upon the world and help the many victims that have been left in their fallout.
 
 ## BIBLIOGRAPHY
+
 Anjain, Jeton. "Senator John Anjain Acceptance Speech." Speech, December 31, 1991. The Right Livelihood Foundation. Accessed February 12, 2021. <https://www.rightlivelihoodaward.org/speech/acceptance-speech-senator-jeton-anjain-the-rongelap-people/>.
 
 Anjain, John. Interview. _Atomic Atolls_. Last modified 1981. Accessed February 4, 2021. <https://bba5620c586b48f2ad7ea60cc6705f89.filesusr.com/ugd/d75784_02b0bf2c1b5e40cd8f98a0ac0c82db05.pdf>.
@@ -145,14 +146,14 @@ Takemine, Seiichiro. "'Global Hibakusha' and the Invisible Victims of the U.S. N
 
 Tima, Aisen. Interview. _Atomic Atolls_. Last modified July 2, 1985. Accessed February 4, 2021. <https://bba5620c-586b-48f2-ad7e-a60cc6705f89.filesusr.com/ugd/d75784_f322c7e527224f45bf1ddad8c194caf3.pdf>.
 
-U.S. Mission Geneva. "U.S. Statement on the Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Calin Georgescou, on His Mission to the Republic of the Marshall Islands, March 26 to March 29, 2012." News release. September 18, 2012. Accessed March 16, 2021. <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
+U.S. Mission Geneva. "Statement at HRC on U.S. Efforts to Address the Impacts of Nuclear Testing in the Marshall Islands." News release. September 18, 2012. Accessed March 16, 2021. <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
 
 Willett, Erroll. "Greenpeace Evacuates Marshall Islanders." UPI, May 22, 1985. Accessed February 27, 2021. <https://www.upi.com/Archives/1985/05/22/Greenpeace-evacuates-Marshall-Islanders/8656485582400/>.
 
 ## FOOTNOTES
 
 [^1]: "Operation CASTLE Commanders Report", Video, Internet Archive, Posted by Joint Task Force 7, 1954, 6:00, <https://archive.org/details/CastleCommandersReport1954>.
-[^2]: U.S. Mission Geneva, "U.S. Statement on the Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Calin Georgescou, on His Mission to the Republic of the Marshall Islands, March 26 to March 29, 2012," News release, September 18, 2012, <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
+[^2]: U.S. Mission Geneva, "Statement at HRC on U.S. Efforts to Address the Impacts of Nuclear Testing in the Marshall Islands," News release, September 18, 2012, <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
 [^3]: Mick Broderick and Robert Jabobs, "The Global Hibakusha Project: Nuclear Post-colonialism and Its Intergenerational Legacy," Unlikely, no. 5, <http://unlikely.net.au/issue-05/the-global-hibakusha-project>.
 [^4]: Seiichiro Takemine, "Global Hibakusha' and the Invisible Victims of the U.S. Nuclear Testing in the Marshall Islands," *Regional Ecological Challegnes for Peace in Africa, the Middle East, Latin America and Asia Pacific*, by Ursula Oswarld Spring, Hans Gunter Brauch, Serrena Erendira Serrano Oswald, and Juliet Bennett, 125-36, Springer, Cham, 2016, <https://link-springer-com.ezproxy.lib.calpoly.edu/chapter/10.1007%2F978-3-319-30560-8_7>.
 [^5]: S.H. Riesenberg, "Modern Atomic Exiles: Fallout of Radioactive Material in Bomb Test Forced Evacuation of Marshallese," *The Honolulu Advertiser*, July 15, 1954, newspapers.com.
