@@ -149,6 +149,7 @@ U.S. Mission Geneva. "U.S. Statement on the Report of the Special Rapporteur on 
 
 Willett, Erroll. "Greenpeace Evacuates Marshall Islanders." UPI, May 22, 1985. Accessed February 27, 2021. <https://www.upi.com/Archives/1985/05/22/Greenpeace-evacuates-Marshall-Islanders/8656485582400/>.
 
+## FOOTNOTES
 
 [^1]: "Operation CASTLE Commanders Report", Video, Internet Archive, Posted by Joint Task Force 7, 1954, 6:00, <https://archive.org/details/CastleCommandersReport1954>.
 [^2]: U.S. Mission Geneva, "U.S. Statement on the Report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Calin Georgescou, on His Mission to the Republic of the Marshall Islands, March 26 to March 29, 2012," News release, September 18, 2012, <https://geneva.usmission.gov/2012/09/18/hrc-statement-on-u-s-efforts-to-address-the-impacts-of-nuclear-testing-in-the-marshall-islands/>.
